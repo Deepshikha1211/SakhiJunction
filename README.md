@@ -2,7 +2,7 @@
 
 ## ✨ Overview
 
-Sakhi Junction is an AI-powered platform built by Team SheCodes during Hack With Her 4.0 , earning 2nd Runner-Up and the Diversity Award with ₹10,000 in Amazon Gift Vouchers. Crafted with React.js, Node.js, MongoDB, Express.js, JWT, and designed in Figma, it empowers 100+ women with health tracking, community support, and personalized self-care, hosted on Vercel for seamless access.
+Sakhi Junction is an AI-powered platform. Crafted with React.js, Node.js, MongoDB, Express.js, JWT, and designed in Figma, it empowers 100+ women with health tracking, community support, and personalized self-care, hosted on Vercel for seamless access.
 
 ## 🎯 Features
 
@@ -91,31 +91,37 @@ she-codes/ <br>
 
 
 ## 💻 Dashboard:
-![Alt Text](./images%20for%20readme/Dashboard.png) <br> 
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/3abec2a9-318a-4f79-ac2d-34759dfba8e3" />
+ <br> 
 
 
 
 ## 🌸 Community Feed:
-![Alt Text](./images%20for%20readme/Community.png) <br>
+<img width="1890" height="849" alt="image" src="https://github.com/user-attachments/assets/70ebabb4-8647-4377-a35a-0184af9ee5cd" />
+ <br>
 
 
 
 ## 🩺 Cycle & Wellness Tracker:
-![Alt Text](./images%20for%20readme/tracker.png) <br>
+<img width="1916" height="844" alt="image" src="https://github.com/user-attachments/assets/8c235e47-a62d-4408-a838-a7d7c04488bd" />
+ <br>
 
 
 ## 🤖 Sakhi Chatbot:
-![Alt Text](./images%20for%20readme/chatbot.png) <br> 
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/39df62f7-ca28-4c06-86b8-61262d177a7f" />
+ <br> 
 
 
 
 ## 🗣️ Her Voice Scheduled Messages:
-![Alt Text](./images%20for%20readme/messages.png) <br> 
+<img width="1917" height="851" alt="image" src="https://github.com/user-attachments/assets/6ae7bbca-6bf7-4958-981e-a8483aa7e22a" />
+ <br> 
 
 
 
 ## 🔔 Period Symptoms Log:
-![Alt Text](./images%20for%20readme/symtoms.png) <br> 
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/10a3e351-8d59-437c-a8fa-2e9499aa78a3" />
+ <br> 
 
 
 ## 🚀 Live Demo
@@ -124,7 +130,7 @@ she-codes/ <br>
 
 ## 🛠️ Installation
 
-- git clone https://github.com/KritikaSawhney/she-codes.git <br>
+- git clone https://github.com/Deepshikha1211/SakhiJunction <br>
 - cd she-codes <br>
 - npm install <br>
 - npm run dev <br>
@@ -133,12 +139,5 @@ Note: Ensure MongoDB is running and configure environment variables for JWT and 
 
 ## 💬 Feedback
 
-We’d love to hear from you! Open an issue or contact us for suggestions on kritikasawhney1010@gmail.com.
+We’d love to hear from you!
 
-## 📢 Show Some Love
-
-If you like Sakhi Junction, please ⭐ the repo and share it with your network! <br>
-"Empowering women is a movement. Join us for a stronger, safer world."<br>
-
-## © 2025 Team She Codes
-#HackWithHer #sheCodes #SakhiJunction #WomenInTech #TechForGood #IEEE #Edifecs #Innovation #Hackathon #Teamwork #WomenEmpowerment
